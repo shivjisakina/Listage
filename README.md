@@ -35,4 +35,4 @@ A grocery list app that knows when you need each item depending on the settings 
 * Create different lists depending on the store where the item is the cheapest
 * Organize the list by aisle # so its easier for the user to go through the list at the store. 
 
-![Group Presentation Video](https://www.youtube.com/watch?v=ppSwEJAMPfs)
+[Watch Our Group Presentation Video](https://www.youtube.com/watch?v=ppSwEJAMPfs)
